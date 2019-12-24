@@ -8,6 +8,10 @@ int e=10;
 int f=d-e;
 System.out.println("the number is+"c);
 System.out.println("the number is+"f);
+int g=25;
+int h=6;
+int i=g*h;
+System.out.println("the number is+"i);
 }
 
 
