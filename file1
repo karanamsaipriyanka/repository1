@@ -9,3 +9,6 @@ int f=d-e;
 System.out.println("the number is+"c);
 System.out.println("the number is+"f);
 }
+
+
+thankyou
