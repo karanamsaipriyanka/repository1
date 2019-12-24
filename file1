@@ -3,5 +3,9 @@ import java.util.*;{
 int a=50;
 int b=20;
 int c=a+b;
+int d=40;
+int e=10;
+int f=d-e;
 System.out.println("the number is+"c);
+System.out.println("the number is+"f);
 }
